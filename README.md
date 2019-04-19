@@ -25,3 +25,6 @@ For easy handling of the 16x2 LCD the library [LiquidCrystal_I2C](https://github
 
 ## Notes:
 The complete code was created on several evenings without claiming big quality. If you want to improve the code, I would be happy if you share it by using Pull Requests.
+
+# Circuit 
+![Circuit](wetterDisplay_Breadboard.png)
